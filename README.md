@@ -8,7 +8,7 @@
   <br />
   <h3>🚀 Engenharia de Alta Performance & Soluções Digitais Inteligentes</h3>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&pause=1000&color=00A7E1&center=true&vCenter=true&width=500&lines=Liderando+a+Inova%C3%A7%C3%A3o+em+Bras%C3%ADlia;Especialistas+em+Infraestrutura+El%C3%A9trica;Desenvolvimento+Full+Stack+Premium;Sistemas+Potencializados+por+IA)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&pause=1000&color=00A7E1&center=true&vCenter=true&width=500&lines=Liderando+a+Inova%C3%A7%C3%A3o+em+Bras%C3%ADlia;Especialistas+em+Infraestrutura+El%C3%A9trica;Desenvolvimento+Full+Stack+Premium;Sistemas+Potencializados+por+IA" />
 </div>
 
 ---
@@ -31,7 +31,7 @@ Somos uma empresa focada na convergência entre a **Engenharia Tradicional** e a
 
 ### 📊 Dashboard de Atividade
 <div align="center">
-  <table style={{ border: 'none' }}>
+  <table border="0">
     <tr>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=rdgstecno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="100%" />
@@ -55,12 +55,8 @@ Somos uma empresa focada na convergência entre a **Engenharia Tradicional** e a
 
 ### 📁 Projetos em Destaque
 <div align="center">
-  <a href="https://github.com/rdgstecno/rdgs-new-portal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rdgstecno&repo=rdgs-new-portal&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/rdgstecno/rdgs-orcamentos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rdgstecno&repo=rdgs-orcamentos&theme=tokyonight&show_owner=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdgstecno&repo=rdgs-new-portal&theme=tokyonight&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdgstecno&repo=rdgs-orcamentos&theme=tokyonight&show_owner=true" />
 </div>
 
 ---
